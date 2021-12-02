@@ -1,6 +1,6 @@
 # Journey to Valhalla pimped version
 
-This is a pimped version of the journey to valhalla mod.
+This is a pimped version of the journey to valhalla mod pack.
 
 ## Overview about pimped features
 
@@ -21,3 +21,8 @@ valuable
 * 1.1.1 -> version updates
 * 1.1.0 -> adding the custom items to CLLC item config
 * 1.0.0 -> first version
+
+## Contact
+
+* https://github.com/FelixReuthlinger/jtv-pimped
+* Discord: Flux#0062 (you can find me around some of the Valheim modding discords, too)
