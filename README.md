@@ -14,6 +14,7 @@ valuable
 
 ## Changelog
 
+* 1.2.2 -> version updates of used mods / packs
 * 1.2.1 -> adding PassivePower and ComfortTweaks mods; updated to latest JTV version; increased CLLC difficulty
 * 1.2.0 -> updated to newer journey version
 * 1.1.3 -> updated to versions that contain fixes for new game version of 25th Nov
