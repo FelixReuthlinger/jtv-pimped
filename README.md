@@ -1,19 +1,29 @@
 # Journey to Valhalla pimped version
 
-This is a pimped version of the journey to valhalla mod pack.
+This is a pimped version of the 
+[Journey to Valhalla](https://valheim.thunderstore.io/package/thedefside/Journey_To_Valhalla/) mod pack.
 
 ## Overview about pimped features
 
-* Nature (trees and some ores and seeds) will regenerate after being harvested
-* Adds Better Wards to make buildings indestructible and auto fuels fires and stuff
-* Adds CLLC and brings CLLC's ItemConfig for all the items to not lose them on 
-death and reconfigures item stacks, weight and teleporting abilities removed for all ores and metals
+* Nature will regenerate after being harvested
+  * trees (birch, fir, pine, oak)
+  * ores (tin)
+  * seeds (turnip spawns more often)
+* Adds Better Wards to 
+  * make buildings indestructible
+  * auto fuels fires
+* Adds CLLC ItemConfigs for all the items to 
+  * not lose them on death 
+  * reconfigures item stacks and weight
+  * teleporting abilities removed for all ores and metals
 * Adds some base mods that I feel come handy any time playing the game, like crafting from chests, etc.
 * You don't loose skills on death, since even with vanilla it is hard to not die and get the skill to any 
 valuable 
 
 ## Changelog
 
+* 1.2.3 -> changes on better wards config to switch from protecting single structures to preotecting all
+  player structures instead
 * 1.2.2 -> version updates of used mods / packs
 * 1.2.1 -> adding PassivePower and ComfortTweaks mods; updated to latest JTV version; increased CLLC difficulty
 * 1.2.0 -> updated to newer journey version

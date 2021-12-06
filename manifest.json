@@ -1,13 +1,13 @@
 {
 	"name": "Journey_To_Valhalla_pimped",
 	"description": "Journey to Valhalla pimped with more mods",
-	"version_number": "1.2.2",
+	"version_number": "1.2.3",
 	"website_url": "https://valheim.thunderstore.io/package/thedefside/Journey_To_Valhalla/",
 	"dependencies": [
 		"thedefside-Journey_To_Valhalla-0.1.1",
 		"Azumatt-BetterWards-1.6.4",
 		"Smoothbrain-CreatureLevelAndLootControl-4.4.5",
-		"FixItFelix-SinglePlayer_Essentials-1.4.0",
+		"FixItFelix-SinglePlayer_Essentials-1.4.1",
 		"FixItFelix-NoSkillDrain-1.0.1",
 		"FixItFelix-RegenerativeNature-1.2.3",
 		"FixItFelix-CreatureLeveLAndLootControl_itemconfig-1.2.4",
